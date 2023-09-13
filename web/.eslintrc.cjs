@@ -15,6 +15,7 @@ module.exports = {
       'warn',
       { allowConstantExport: true },
     ],
+    "react-refresh/only-export-components": "off",
     "prettier/prettier": "error",
     "import-helpers/order-imports": [
       "warn",
